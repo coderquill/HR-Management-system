@@ -1,0 +1,2 @@
+# HR-Management-system
+Human Resource Management system provides the information regarding the employees in the company..The web pages about an employee are created dynamically based on the user id and password and links are provided to web pages containging information like employee general details.HRMS also has the faacility of viewing detailed report of the leaves and attendance as well as the salary. 
